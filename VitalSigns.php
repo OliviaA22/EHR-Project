@@ -62,31 +62,24 @@
 <div class="vs">
 <form class="form-control-sm row g-3">
   <div class="col-md-2">
-    <label for="inputEmail4" class="form-label">Temperature</label>
-    <input type="email" class="form-control" id="inputEmail4">
+    <label for="inputTemperature" class="form-label">Temperature</label>
+    <input type="email" class="form-control" id="inputTemperature">
   </div>
   <div class="col-md-2">
-    <label for="inputPassword4" class="form-label">Blood pressure</label>
-    <input type="password" class="form-control" id="inputPassword4">
+    <label for="inputBloodPressure" class="form-label">Blood pressure</label>
+    <input type="password" class="form-control" id="inputBloodPressure">
   </div>
   <div class="col-2">
-    <label for="inputAddress2" class="form-label">Heart Rate</label>
-    <input type="text" class="form-control" id="inputAddress2" placeholder="">
+    <label for="inputHeartRate" class="form-label">Heart Rate</label>
+    <input type="text" class="form-control" id="inputHeartRate" placeholder="">
   </div>
   <div class="col-md-2">
-    <label for="inputCity" class="form-label">Oxygen Saturation(SpO2)</label>
-    <input type="text" class="form-control" id="inputCity">
-  </div>
-  <div class="col-md-4">
-    <label for="inputState" class="form-label">Pulse</label>
-    <select id="inputState" class="form-select">
-      <option selected>Choose...</option>
-      <option>...</option>
-    </select>
+    <label for="inputSpO2" class="form-label">Oxygen Saturation(SpO2)</label>
+    <input type="text" class="form-control" id="inputSpO2">
   </div>
   <div class="col-md-2">
-    <label for="inputZip" class="form-label">Zip</label>
-    <input type="text" class="form-control" id="inputZip">
+    <label for="inputPulse" class="form-label">Pulse</label>
+    <input type="text" class="form-control" id="inputPulse">
   </div>
   <div class="col-12">
     <div class="form-check">
